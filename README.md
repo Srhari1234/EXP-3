@@ -61,6 +61,10 @@ int main() {
 }
 ```
 
+## OUTPUT 1:-
+
+![image](https://github.com/user-attachments/assets/982519cb-0400-4a81-815e-e0a0db3ea4ec)
+
 CODE2:
 
 ```
@@ -84,6 +88,10 @@ int main() {
     return 0;
 }
 ```
+
+## OUTPUT 2:-
+
+![image](https://github.com/user-attachments/assets/d174fb7c-c19b-4ca1-8a6f-1111e2c703c9)
 
 CODE3:
 
@@ -131,6 +139,10 @@ int main() {
 	return 0;
 }
 ```
+
+## OUTPUT 3:-
+
+![image](https://github.com/user-attachments/assets/5dd2c277-0427-4444-9757-919a01fcdea8)
 
 ## Conclusion:
 
